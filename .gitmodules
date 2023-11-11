@@ -1,0 +1,6 @@
+[submodule "external/vkfw"]
+	path = external/vkfw
+	url = https://github.com/Cvelth/vkfw
+[submodule "external/glad"]
+	path = external/glad
+	url = https://github.com/Dav1dde/glad
